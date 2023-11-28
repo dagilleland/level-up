@@ -1,4 +1,5 @@
 const support = await import('@mostly-adequate/support');
+const id = support.id;
 const curry = support.curry;
 const compose = support.compose;
 const intercalate = support.intercalate;
